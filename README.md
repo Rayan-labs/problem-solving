@@ -6,7 +6,7 @@ This repository is a place to examine ideas, test assumptions, and record what I
 
 ## First entry
 
-### Jane Street — Hint Singles
+### [Jane Street — Hint Singles](puzzles/2026-09-jane-street-hint-singles/README.md)
 September 2026 · Accepted submission
 
 An exploration of the puzzle's wordplay and hidden message.
