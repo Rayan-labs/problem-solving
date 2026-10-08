@@ -9,5 +9,5 @@ This repository is a place to examine ideas, test assumptions, and record what I
 ### [Jane Street — Hint Singles](puzzles/2026-09-jane-street-hint-singles/README.md)
 September 2026 · Accepted submission
 
-An exploration of the puzzle's wordplay and hidden message.
-A detailed solution walkthrough is in preparation.
+
+A complete walkthrough of the puzzle’s wordplay, artist-name transformations, and hidden message, with evidence of the accepted submission.
