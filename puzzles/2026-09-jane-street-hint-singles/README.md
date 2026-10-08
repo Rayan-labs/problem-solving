@@ -94,6 +94,11 @@ Jane Street’s September 2026 puzzle, **Hint Singles**.
 
 <img width="3456" height="1924" alt="4137C0C3-64D1-4CA7-A019-BE9E4AF4D491_1_201_a" src="https://github.com/user-attachments/assets/57fc45f4-65c9-4edd-bf36-0373a3f97809" />
 
-## Planned Python exercise
+## Python verification
 
-Build a small verifier to check the supplied artist-name transformations and reconstruct the extracted message.
+The accompanying [`verify.py`](verify.py) script checks that each modified artist name is formed by inserting exactly one letter into the original name. It then extracts those letters in track order and verifies the hidden message.
+
+Run it locally from this directory with:
+
+```bash
+python3 verify.py
